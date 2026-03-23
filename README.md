@@ -5,10 +5,10 @@
 I am a technology leader with a background in enterprise IT management and cloud infrastructure. I use this space to document my work in automation, system utilities, and infrastructure-as-code.
 
 ### 🛠️ Technical Focus
-- **Languages:** PowerShell, Bash, SQL, Python.
+- **Languages:** PowerShell, Bash, HTML, CSS, JavaScript, PHP, Python, SQL
 - **Infrastructure:** Azure, Microsoft 365, BGP Networking, Datacenter Management.
 - **DevOps:** Git/Gerrit version control, SSH/GPG security protocols, CI/CD workflows.
-- **Special Interests:** Agentic AI implementation and hardware optimization (3D systems).
+- **Special Interests:** Agentic AI implementation and hardware optimization.
 
 ### 🚀 Key Contributions
 - **System Automation:** Developing PowerShell, Python and Bash suites to streamline Linux/Windows server environments and administrative tasks.
